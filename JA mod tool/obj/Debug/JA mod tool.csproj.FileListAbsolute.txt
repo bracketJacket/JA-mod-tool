@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\JA mod tool\bin\Debug\JA mod tool.exe
+C:\Users\PC\source\repos\JA mod tool\bin\Debug\JA mod tool.pdb
+C:\Users\PC\source\repos\JA mod tool\obj\Debug\JA_mod_tool.Form1.resources
+C:\Users\PC\source\repos\JA mod tool\obj\Debug\JA_mod_tool.Localization.resources
+C:\Users\PC\source\repos\JA mod tool\obj\Debug\JA_mod_tool.Properties.Resources.resources
+C:\Users\PC\source\repos\JA mod tool\obj\Debug\JA mod tool.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\JA mod tool\obj\Debug\JA mod tool.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\JA mod tool\obj\Debug\JA mod tool.exe
+C:\Users\PC\source\repos\JA mod tool\obj\Debug\JA mod tool.pdb
+C:\Users\PC\source\repos\JA mod tool\obj\Debug\JA mod tool.csprojAssemblyReference.cache

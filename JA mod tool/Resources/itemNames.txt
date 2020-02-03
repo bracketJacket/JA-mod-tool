@@ -1,0 +1,488 @@
+Wild Horseradish
+Daffodil
+Leek
+Dandelion
+Parsnip
+Emerald
+Aquamarine
+Ruby
+Amethyst
+Topaz
+Jade
+Trimmed Lucky Purple Shorts
+Diamond
+Prismatic Shard
+Cave Carrot
+Quartz
+Fire Quartz
+Frozen Tear
+Earth Crystal
+Coconut
+Cactus Fruit
+Torch
+Dwarf Scroll I
+Dwarf Scroll II
+Dwarf Scroll III
+Dwarf Scroll IV
+Chipped Amphora
+Arrowhead
+Ancient Doll
+Elvish Jewelry
+Chewing Stick
+Ornamental Fan
+Dinosaur Egg
+Rare Disc
+Ancient Sword
+Rusty Spoon
+Rusty Spur
+Rusty Cog
+Chicken Statue
+Ancient Seed
+Prehistoric Tool
+Dried Starfish
+Anchor
+Glass Shards
+Bone Flute
+Prehistoric Handaxe
+Dwarvish Helm
+Dwarf Gadget
+Ancient Drum
+Golden Mask
+Golden Relic
+Strange Doll
+Strange Doll
+Pufferfish
+Anchovy
+Tuna
+Sardine
+Bream
+Largemouth Bass
+Smallmouth Bass
+Rainbow Trout
+Salmon
+Walleye
+Perch
+Carp
+Catfish
+Pike
+Sunfish
+Red Mullet
+Herring
+Eel
+Octopus
+Red Snapper
+Squid
+Seaweed
+Green Algae
+Sea Cucumber
+Super Cucumber
+Ghostfish
+White Algae
+Stonefish
+Crimsonfish
+Angler
+Ice Pip
+Lava Eel
+Legend Fish
+Sandfish
+Scorpion Carp
+Treasure Chest
+Joja Cola
+Trash
+Driftwood
+Broken Glasses
+Broken CD
+Soggy Newspaper
+Large Egg (white)
+Egg (white)
+Hay
+Egg (brown)
+Large Egg (white)
+Milk
+Large Milk
+Green Bean
+Cauliflower
+Potato
+Fried Egg
+Omelet
+Salad
+Cheese Cauliflower
+Baked Fish
+Parsnip Soup
+Vegetable Medley
+Complete Breakfast
+Fried Calamari
+Strange Bun
+Lucky Lunch
+Fried Mushroom
+Pizza
+Bean Hotpot
+Glazed Yams
+Carp Surprise
+Hashbrowns
+Pancakes
+Salmon Dinner
+Fish Taco
+Crispy Bass
+Pepper Poppers
+Bread
+Tom Kha Soup
+Trout Soup
+Chocolate Cake
+Pink Cake
+Rhubarb Pie
+Cookie
+Spaghetti
+Fried Eel
+Spicy Eel
+Sashimi
+Maki Roll
+Tortilla
+Red Plate
+Eggplant Parmesan
+Rice Pudding
+Ice Cream
+Blueberry Tart
+Autumn's Bounty
+Pumpkin Soup
+Super Meal
+Cranberry Sauce
+Stuffing
+Farmer's Lunch
+Survival Burger
+Dish O' The Sea
+Miner's Treat
+Roots Platter
+Sugar
+Wheat Flour
+Oil
+Garlic
+Kale
+Tea Sapling
+Rhubarb
+Triple Shot Espresso
+Melon
+Tomato
+Morel
+Blueberry
+Fiddlehead Fern
+Hot Pepper
+Warp Totem: Desert
+Wheat
+Radish
+Seafoam Pudding
+Red Cabbage
+Flounder
+Starfruit
+Midnight Carp
+Corn
+Unmilled Rice
+Eggplant
+Rice Shoot
+Artichoke
+Artifact Trove
+Pumpkin
+Wilted Bouquet
+Bok Choy
+Magic Rock Candy
+Yam
+Chanterelle
+Cranberries
+Holly
+Beet
+Cherry Bomb
+Bomb
+Mega Bomb
+Brick Floor
+Salmonberry
+Grass Starter
+Hardwood Fence
+Amaranth Seeds
+Amaranth
+Grape Starter
+Hops Starter
+Pale Ale
+Hops
+Void Egg
+Mayonnaise
+Duck Mayonnaise
+Void Mayonnaise
+Acorn
+Maple Seed
+Pine Cone
+Wood Fence
+Stone Fence
+Iron Fence
+Gate
+Wood Floor
+Stone Floor
+Clay
+Weathered Floor
+Crystal Floor
+Copper Bar
+Iron Bar
+Gold Bar
+Iridium Bar
+Refined Quartz
+Honey
+Pickles
+Jelly
+Beer
+Rare Seed
+Wine
+Energy Tonic
+Muscle Remedy
+Basic Fertilizer
+Quality Fertilizer
+Basic Retaining Soil
+Quality Retaining Soil
+Clam
+Golden Pumpkin
+Poppy
+Copper Ore
+Iron Ore
+Coal
+Gold Ore
+Iridium Ore
+Wood
+Stone
+Nautilus Shell
+Coral
+Rainbow Shell
+Coffee
+Spice Berry
+Sea Urchin
+Grape
+Spring Onion
+Strawberry
+Straw Floor
+Sweet Pea
+Field Snack
+Common Mushroom
+Wood Path
+Wild Plum
+Gravel Path
+Hazelnut
+Crystal Path
+Blackberry
+Cobblestone Path
+Winter Root
+Blue Slime Egg
+Crystal Fruit
+Stepping Stone Path
+Snow Yam
+Sweet Gem Berry
+Crocus
+Vinegar
+Red Mushroom
+Sunflower
+Purple Mushroom
+Rice
+Cheese
+Fairy Seeds
+Goat Cheese
+Tulip Bulb
+Cloth
+Jazz Seeds
+Truffle
+Sunflower Seeds
+Truffle Oil
+Coffee Bean
+Goat Milk
+Red Slime Egg
+L. Goat Milk
+Purple Slime Egg
+Wool
+Explosive Ammo
+Duck Egg
+Duck Feather
+Caviar
+Rabbit's Foot
+Aged Roe
+Poppy Seeds
+Ancient Fruit
+Spangle Seeds
+Algae Soup
+Pale Broth
+Bouquet
+Mead
+Mermaid's Pendant
+Speed-Gro
+Deluxe Speed-Gro
+Parsnip Seeds
+Bean Starter
+Cauliflower Seeds
+Potato Seeds
+Garlic Seeds
+Kale Seeds
+Rhubarb Seeds
+Melon Seeds
+Tomato Seeds
+Blueberry Seeds
+Pepper Seeds
+Wheat Seeds
+Radish Seeds
+Red Cabbage Seeds
+Starfruit Seeds
+Corn Seeds
+Eggplant Seeds
+Artichoke Seeds
+Pumpkin Seeds
+Bok Choy Seeds
+Yam Seeds
+Cranberry Seeds
+Beet Seeds
+Spring Seeds
+Summer Seeds
+Fall Seeds
+Winter Seeds
+Ancient Seeds
+Geode
+Frozen Geode
+Magma Geode
+Alamite
+Bixite
+Baryte
+Aerinite
+Calcite
+Dolomite
+Esperite
+Fluorapatite
+Geminite
+Helvite
+Jamborite
+Jagoite
+Kyanite
+Lunarite
+Malachite
+Neptunite
+Lemon Stone
+Nekoite
+Orpiment
+Petrified Slime
+Thunder Egg
+Pyrite
+Ocean Stone
+Ghost Crystal
+Tigerseye
+Jasper
+Opal
+Fire Opal
+Celestine
+Marble
+Sandstone
+Granite
+Basalt
+Limestone
+Soapstone
+Hematite
+Mudstone
+Obsidian
+Slate
+Fairy Stone
+Star Shards
+Prehistoric Scapula
+Prehistoric Tibia
+Prehistoric Skull
+Skeletal Hand
+Prehistoric Rib
+Prehistoric Vertebra
+Skeletal Tail
+Nautilus Fossil
+Amphibian Fossil
+Palm Fossil
+Trilobite
+Tulip
+Summer Spangle
+Fairy Rose
+Blue Jazz
+Sprinkler
+Plum Pudding
+Artichoke Dip
+Stir Fry
+Roasted Hazelnuts
+Pumpkin Pie
+Radish Salad
+Fruit Salad
+Blackberry Cobbler
+Cranberry Candy
+Apple
+Green Tea
+Bruschetta
+Cherry Sapling
+Apricot Sapling
+Orange Sapling
+Peach Sapling
+Pomegranate Sapling
+Apple Sapling
+Apricot
+Orange
+Peach
+Pomegranate
+Cherry
+Coleslaw
+Fiddlehead Risotto
+Poppyseed Muffin
+Green Slime Egg
+Mutant Carp
+Bug Meat
+Bait
+Sturgeon
+Tiger Trout
+Bullhead
+Tilapia
+Chub
+Dorado
+Albacore
+Shad
+Lingcod
+Halibut
+Hardwood
+Lobster
+Crayfish
+Crab
+Cockle
+Mussel
+Shrimp
+Snail
+Periwinkle
+Oyster
+Maple Syrup
+Oak Resin
+Pine Tar
+Chowder
+Fish Stew
+Escargot
+Lobster Bisque
+Maple Bar
+Crab Cakes
+Shrimp Cocktail
+Woodskip
+Strawberry Seeds
+Omni Geode
+Slime
+Bat Wing
+Solar Essence
+Void Essence
+Mixed Seeds
+Fiber
+Oil of Garlic
+Life Elixir
+Wild Bait
+Glacierfish
+Battery Pack
+Lucky Purple Shorts
+Void Salmon
+Slimejack
+Pearl
+Midnight Squid
+Spook Fish
+Blobfish
+Cactus Seeds
+Tree Fertilizer
+Dinosaur Mayonnaise
+Void Ghost Pendant
+Movie Ticket
+Roe
+Squid Ink
+Tea Leaves
